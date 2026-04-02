@@ -18,7 +18,7 @@ Log sessions, earn vegetable-themed star ratings, and track your progress over t
 - Swift 6
 
 ## Platform
-iOS 17+ | iPhone & iPad
+iOS 17+ | iPhone
 
 ## Support
 contact: gulflens.studio@gmail.com
